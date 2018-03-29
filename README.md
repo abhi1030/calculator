@@ -1,2 +1,2 @@
 # calculator
-this is a python calculator
+this is a python calculator using tkinter module.
